@@ -1,0 +1,78 @@
+﻿  Program4.cpp
+C:\Users\zhou\Documents\CS334\Program6\GL\glui.h(880,47): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\GL\glui.h(880,31): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\GL\glui.h(944,24): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(69,8): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(85,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(86,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(87,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(88,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(104,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(104,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(104,13): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(112,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(112,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(112,13): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(177,26): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(177,21): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(177,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(232,26): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(232,21): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(232,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(282,30): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(282,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(282,18): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(354,25): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(354,20): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(354,15): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(381,26): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(381,21): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(381,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(495,30): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(495,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(495,18): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(517,14): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(519,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(538,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(634,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(635,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(636,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(674,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(675,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(676,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(677,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(682,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(687,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(688,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(689,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(698,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(699,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(700,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(939,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhou\Documents\CS334\Program6\Program4.cpp(939,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+glui.lib(algebra3.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(algebra3.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(arcball.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(arcball.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_add_controls.obj) : warning LNK4099: 未找到 PDB“”(使用“glui.lib(glui_add_controls.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_bitmaps.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_bitmaps.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_bitmap_img_data.obj) : warning LNK4099: 未找到 PDB“”(使用“glui.lib(glui_bitmap_img_data.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_button.obj) : warning LNK4099: 未找到 PDB“”(使用“glui.lib(glui_button.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_checkbox.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_checkbox.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_column.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_column.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_control.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_control.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_edittext.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_edittext.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_listbox.obj) : warning LNK4099: 未找到 PDB“”(使用“glui.lib(glui_listbox.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_mouse_iaction.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_mouse_iaction.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_node.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_node.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_panel.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_panel.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_radio.obj) : warning LNK4099: 未找到 PDB“”(使用“glui.lib(glui_radio.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_rollout.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_rollout.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_rotation.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_rotation.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_separator.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_separator.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_spinner.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_spinner.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_statictext.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_statictext.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_string.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_string.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_translation.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_translation.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_window.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_window.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(quaternion.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(quaternion.obj)”或在“C:\Users\zhou\Documents\CS334\Program6\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Program4.vcxproj -> C:\Users\zhou\Documents\CS334\Program6\Debug\Program4.exe
